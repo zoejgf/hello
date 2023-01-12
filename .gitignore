@@ -1,3 +1,4 @@
 #ignore files i didn't create
 composer.lock
 vendor/
+tmp/
